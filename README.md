@@ -1,7 +1,7 @@
 # Olá, meu nome é Glauco Ribeiro!
 
 - 🏬 Atualmente trabalho como estagiário em Banco de Dados na Feegow
-- - 👨‍🏫 Estudante de tecnologia em Banco de Dados na Universidade Nove de Julho, atualmente no quarto semestre
+- 👨‍🏫 Estudante de tecnologia em Banco de Dados na Universidade Nove de Julho, atualmente no quarto semestre
 - 📜 Estudando SQL, Python e Power BI
 ##
 
